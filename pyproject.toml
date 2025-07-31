@@ -1,0 +1,9 @@
+[project]
+name = "poetry-agent-06"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "chainlit>=2.6.3",
+]
